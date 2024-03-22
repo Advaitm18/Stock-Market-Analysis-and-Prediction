@@ -2,6 +2,8 @@
 
 In the dynamic world of stock trading, making informed decisions is crucial for success. With the vast amount of data available online, harnessing the power of data analysis through web scraping can provide traders with valuable insights and a competitive edge.
 
+:globe_with_meridians: https://economictimes.indiatimes.com/marketstats/pid-0,marketcap-largecap%252Cmidcap,pageno-1,sortby-percentchange,sortorder-desc,sort-intraday,exchange-50,index-2369.cms?from=mdr
+
 #### Web Scraping
 Web scraping is the process of extracting data from websites, allowing developers to gather information that is not readily available in a structured format. <br>
 
