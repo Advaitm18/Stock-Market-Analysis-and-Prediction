@@ -24,3 +24,5 @@ The bar chart illustrates the last traded price in INR for a selection of compan
 <img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/597c7a96-4f6d-4836-b768-0e3ca01dd18e" />
 
 The chart compares the day's high and low valuations for different companies, providing a snapshot of their trading performance on that specific day.
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/48834f1a-8c80-4b56-9457-566928997dd8" />
+
