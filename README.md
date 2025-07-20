@@ -19,12 +19,14 @@ Bullish Insights is aimed at providing a simplified and interactive interface fo
 ### Results Overview
 
 The charts highlight the distribution of stock volume across various companies, providing a comparative view of their trading activity within specified volume ranges<br>
+
 <img width="560" height="480" alt="image" src="https://github.com/user-attachments/assets/aa9b2ad1-2cb7-4442-bae4-3bdb9abd0b2b" />
 
-
 The bar chart illustrates the last traded price in INR for a selection of companies identified as top gainers.<br>
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/597c7a96-4f6d-4836-b768-0e3ca01dd18e" />
 
 The chart compares the day's high and low valuations for different companies, providing a snapshot of their trading performance on that specific day.<br>
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/48834f1a-8c80-4b56-9457-566928997dd8" />
 
