@@ -16,4 +16,11 @@ Bullish Insights is aimed at providing a simplified and interactive interface fo
 - **Visualization Library**: Generates insightful charts and graphs to support data-driven decisions.
 - **User Interface Library**: Facilitates the creation of interactive and user-friendly application interfaces.
 
-<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/597c7a96-4f6d-4836-b768-0e3ca01dd18e" />
+### Results Overview
+
+The charts highlight the distribution of stock volume across various companies, providing a comparative view of their trading activity within specified volume ranges
+
+The bar chart illustrates the last traded price in INR for a selection of companies identified as top gainers. 
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/597c7a96-4f6d-4836-b768-0e3ca01dd18e" />
+
+The chart compares the day's high and low valuations for different companies, providing a snapshot of their trading performance on that specific day.
