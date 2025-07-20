@@ -15,3 +15,5 @@ Bullish Insights is aimed at providing a simplified and interactive interface fo
 - **Data Manipulation/Analysis Library**: Organizes and processes raw data for further analysis.
 - **Visualization Library**: Generates insightful charts and graphs to support data-driven decisions.
 - **User Interface Library**: Facilitates the creation of interactive and user-friendly application interfaces.
+
+<img width="888" height="498" alt="image" src="https://github.com/user-attachments/assets/597c7a96-4f6d-4836-b768-0e3ca01dd18e" />
