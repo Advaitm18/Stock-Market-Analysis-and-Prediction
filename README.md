@@ -4,12 +4,12 @@ Bullish Insights is aimed at providing a simplified and interactive interface fo
 
 :globe_with_meridians: https://economictimes.indiatimes.com/marketstats/pid-0,marketcap-largecap%252Cmidcap,pageno-1,sortby-percentchange,sortorder-desc,sort-intraday,exchange-50,index-2369.cms?from=mdr
 
-## Development Toolkit Components
+### Development Toolkit Components
 
-### Primary Programming Language
+#### Primary Programming Language
 - **Python** is used as the core language for development, benefiting from its versatility and rich ecosystem.
 
-### Libraries and Tools
+#### Libraries and Tools
 
 - **Web Scraping Library**: Extracts real-time stock data from online sources efficiently.
 - **Data Manipulation/Analysis Library**: Organizes and processes raw data for further analysis.
